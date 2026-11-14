@@ -56,7 +56,7 @@ https://github.com/yang0/magpie-gptfree 帮我把号池建起来。我的magpie�
 **发给 AI 的一句话：**
 
 ```text
-https://github.com/citrolabs/ego-lite.git  帮我下载针对本系统的安装包，并安装到g:\tools 目录下
+https://github.com/citrolabs/ego-lite.git  帮我下载针对本系统的安装包，并安装到g:\tools 目录下。完成安装后：1 删除安装包，2 刷新skill列表确保ego-browser skill有效
 ```
 
 **截图：**
@@ -65,7 +65,7 @@ https://github.com/citrolabs/ego-lite.git  帮我下载针对本系统的安装�
 
 **简短说明：**
 
-[ego lite](https://github.com/citrolabs/ego-lite) 是一款专为「人与 AI Agent 并行工作」设计的免费浏览器。它为每个 Agent（如 Claude Code、Codex、Cursor 等）提供独立隔离的 Space 工作区，可一键继承本地浏览器的登录状态与 Cookie，让多个 Agent 在后台高速执行网页自动化任务的同时，完全不抢占你前台正常浏览的标签页和鼠标控制权，安装后还会自动把 `ego-browser` 技能同步给本机各个 Agent。平时在 GitHub 装桌面软件往往要先分清 macOS（Apple Silicon / Intel）还是 Windows 安装包，再手动下载和指定目录安装；现在只要把仓库地址和目标路径一句话发给 AI，它就会自动识别当前系统、下载对应安装包并安装到 `g:\tools` 目录下，全程省心到底。
+[ego lite](https://github.com/citrolabs/ego-lite) 是一款专为「人与 AI Agent 并行工作」设计的免费浏览器。它为每个 Agent（如 Claude Code、Codex、Cursor 等）提供独立隔离的 Space 工作区，可一键继承本地浏览器的登录状态与 Cookie，让多个 Agent 在后台高速执行网页自动化任务的同时，完全不抢占你前台正常浏览的标签页和鼠标控制权，安装后还会自动把 `ego-browser` 技能同步给本机各个 Agent。平时在 GitHub 装桌面软件往往要先分清 macOS（Apple Silicon / Intel）还是 Windows 安装包，再手动下载和指定目录安装；现在只要把仓库地址和目标路径一句话发给 AI，它就会自动识别当前系统、下载对应安装包并安装到 `g:\tools` 目录下，装完还会顺手清理安装包并刷新确认 `ego-browser` 技能已生效，全程省心到底。
 
 ---
 
