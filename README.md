@@ -10,7 +10,7 @@
 | :-: | :--- | :--- |
 | 01 | [安装开源工具 Magpie](#01-安装开源工具-magpie) | `帮我安装https://github.com/yetone/magpie ，安装目录g:\tools` |
 | 02 | [搭建 GPT 号池](#02-搭建-gpt-号池) | `https://github.com/yang0/magpie-gptfree 帮我把号池建起来。我的magpie目录： G:\tools` |
-| 03 | [安装 AI 自动化浏览器 ego lite](#03-安装-ai-自动化浏览器-ego-lite) | `https://github.com/citrolabs/ego-lite.git  帮我下载针对本系统的安装包，并安装到g:\tools 目录下` |
+| 03 | [安装 AI 自动化浏览器 ego lite](#03-安装-ai-自动化浏览器-ego-lite) | `https://github.com/citrolabs/ego-lite.git  帮我下载针对本系统的安装包，并安装到g:\tools 目录下。完成安装后：1 删除安装包，2 刷新skill列表确保ego-browser skill有效` |
 | 04 | [更新手绘风格提示词库 Skill](#04-更新手绘风格提示词库-skill) | `请更新skill https://github.com/yang0/handraw-style` |
 
 ---
